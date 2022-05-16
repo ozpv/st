@@ -2,10 +2,9 @@
 https://st.suckless.org/
 
 ## patches
-- w3m
-- alpha + focus
-- anygeometry
+- alpha
 - anysize
+- boxdraw
 - clipboard
-- font2
+- anygeometry
 - gruvbox theme
