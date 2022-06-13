@@ -8,3 +8,10 @@ https://st.suckless.org/
 - clipboard
 - anygeometry
 - gruvbox theme
+
+## installation
+```
+git clone https://github.com/ozpv/st
+cd st
+sudo make install
+```
