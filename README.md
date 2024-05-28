@@ -8,7 +8,7 @@ https://st.suckless.org/
 - clipboard
 - anygeometry
 - gruvbox theme
-- scrollback
+- scrollback + mouse scroll
 
 ## installation
 ```
