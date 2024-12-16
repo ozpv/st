@@ -7,7 +7,7 @@ https://st.suckless.org/
 - boxdraw
 - clipboard
 - anygeometry
-- gruvbox theme
+- mocha catppuccin theme
 - scrollback + mouse scroll
 
 ## installation
