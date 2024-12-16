@@ -111,24 +111,24 @@ float alpha = 0.8;
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
 	/* 8 normal colors */
-	[0] = "#282828", /* black   */
-	[1] = "#cc241d", /* red     */
-	[2] = "#98971a", /* green   */
-	[3] = "#d79921", /* yellow  */
-	[4] = "#458588", /* blue    */
-	[5] = "#b16286", /* magenta */
-	[6] = "#689d6a", /* cyan    */
-	[7] = "#a89984", /* white   */
+	[0] = "#1e1e2e", /* black   */
+	[1] = "#f38ba8", /* red     */
+	[2] = "#a6e3a1", /* green   */
+	[3] = "#f9e2af", /* yellow  */
+	[4] = "#89b4fa", /* blue    */
+	[5] = "#b4befe", /* magenta */
+	[6] = "#74c7ec", /* cyan    */
+	[7] = "#cdd6f4", /* white   */
 
 	/* 8 bright colors */
-	[8]  = "#928374", /* black   */
-	[9]  = "#fb4934", /* red     */
-	[10] = "#b8bb26", /* green   */
-	[11] = "#fabd2f", /* yellow  */
-	[12] = "#83a598", /* blue    */
-	[13] = "#d3869b", /* magenta */
-	[14] = "#8ec07c", /* cyan    */
-	[15] = "#ebdbb2", /* white   */
+	[8]  = "#45475a", /* black   */
+	[9]  = "#eba0ac", /* red     */
+	[10] = "#94e2d5", /* green   */
+	[11] = "#fab387", /* yellow  */
+	[12] = "#89dceb", /* blue    */
+	[13] = "#f5c2e7", /* magenta */
+	[14] = "#74c7ec", /* cyan    */
+	[15] = "#cdd6f4", /* white   */
 };
 
 /*
